@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-<p align="center"> Resolver grandes desafios usando tecnologia . <br><br> com foco principal no desenvolvimento de front-end utilizando HTML, CSS e JavaScript. <strong>Apesar de minha experiência limitada ao front-end, tenho uma paixão por descobrir novas ferramentas e utilizá-las na criação de soluções de alta qualidade, Atualmente me considero um desenvolvedor de nível intermediário, concentrado no desenvolvimento web.</p>&nbsp;
+<p align="center">  Gosto muito de resolver grandes desafios usando tecnologia . <br><br> com foco principal no desenvolvimento de front-end utilizando HTML, CSS e JavaScript. <strong>Apesar de minha experiência limitada ao front-end, tenho uma paixão por descobrir novas ferramentas e utilizá-las na criação de soluções de alta qualidade, Atualmente me considero um desenvolvedor de nível intermediário, concentrado no desenvolvimento web.</p>&nbsp;
 <div>
   <a href="https://beacons.ai/GabrielAndre1998">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielAndre1998&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
